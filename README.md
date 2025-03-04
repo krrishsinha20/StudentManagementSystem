@@ -28,7 +28,7 @@ This Java program demonstrates the concepts of **classes, array of objects, inst
 ## Usage Instructions
 1. **Clone the Repository**:
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/krrishsinha20/StudentManagementSystem.git
    ```
 2. **Compile and Run**:
    ```sh
@@ -38,7 +38,7 @@ This Java program demonstrates the concepts of **classes, array of objects, inst
 3. **Follow the menu options to perform different operations.**
 
 ## GitHub Repository
-[Click here to view the repository](<your-github-repo-link>)
+https://github.com/krrishsinha20/StudentManagementSystem.git
 
 ---
 
